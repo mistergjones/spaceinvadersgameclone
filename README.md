@@ -25,7 +25,7 @@ Whilst the original game does not provide for vertical movement, this game does.
 ### Screenshot
 
 -   Screenshot of Space Invaders Clone
-    <!-- ![Example screenshot](screenshot.png) -->
+    ![Example screenshot](screenshot.png)
 
 ### Player Controls
 
@@ -87,6 +87,7 @@ c.restore(); // restores the most recently saved canvas state by popping the top
 -   Remove the UP | DOWN functionality.
 -   Adding shields between the Invaders and Spaceship to provide a safety barrier.
 -   Animate the Space Invaders (i.e. move their legs / arms).
+-   Adding a RESET button when a spaceship is hit to restart the game.
 
 ## Authors
 
