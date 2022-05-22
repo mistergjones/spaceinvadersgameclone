@@ -20,7 +20,7 @@
 
 The challenge of this game was to implement a clone of Space Invaders utilising Objects / Classes programming paradigms. It was also required to utilise HTML's <canvas></canvas> element to draw and animate the updates on screen.
 
-Whilst the original game does not provide for vertical movement, this game does. Allows UP | DOWN movement.
+Whilst the original game does not provide for vertical movement, this game does. It allows full screen UP | DOWN movement.
 
 ### Screenshot
 
@@ -84,7 +84,7 @@ c.restore(); // restores the most recently saved canvas state by popping the top
 
 ### Continued development
 
--   Remove the UP | DOWN functionality.
+-   Minimise the UP | DOWN movement functionality to a certain height. Or add collision detection should a spaceship collide with an invader.
 -   Adding shields between the Invaders and Spaceship to provide a safety barrier.
 -   Animate the Space Invaders (i.e. move their legs / arms).
 -   Adding a RESET button when a spaceship is hit to restart the game.
